@@ -1,0 +1,13 @@
+C:\Users\lesha\OneDrive\Desktop\LR_Ten_OAandP\LR_Ten_OAandP\bin\Debug\netcoreapp3.1\LR_Ten_OAandP.exe
+C:\Users\lesha\OneDrive\Desktop\LR_Ten_OAandP\LR_Ten_OAandP\bin\Debug\netcoreapp3.1\LR_Ten_OAandP.deps.json
+C:\Users\lesha\OneDrive\Desktop\LR_Ten_OAandP\LR_Ten_OAandP\bin\Debug\netcoreapp3.1\LR_Ten_OAandP.runtimeconfig.json
+C:\Users\lesha\OneDrive\Desktop\LR_Ten_OAandP\LR_Ten_OAandP\bin\Debug\netcoreapp3.1\LR_Ten_OAandP.runtimeconfig.dev.json
+C:\Users\lesha\OneDrive\Desktop\LR_Ten_OAandP\LR_Ten_OAandP\bin\Debug\netcoreapp3.1\LR_Ten_OAandP.dll
+C:\Users\lesha\OneDrive\Desktop\LR_Ten_OAandP\LR_Ten_OAandP\bin\Debug\netcoreapp3.1\LR_Ten_OAandP.pdb
+C:\Users\lesha\OneDrive\Desktop\LR_Ten_OAandP\LR_Ten_OAandP\obj\Debug\netcoreapp3.1\LR_Ten_OAandP.csprojAssemblyReference.cache
+C:\Users\lesha\OneDrive\Desktop\LR_Ten_OAandP\LR_Ten_OAandP\obj\Debug\netcoreapp3.1\LR_Ten_OAandP.AssemblyInfoInputs.cache
+C:\Users\lesha\OneDrive\Desktop\LR_Ten_OAandP\LR_Ten_OAandP\obj\Debug\netcoreapp3.1\LR_Ten_OAandP.AssemblyInfo.cs
+C:\Users\lesha\OneDrive\Desktop\LR_Ten_OAandP\LR_Ten_OAandP\obj\Debug\netcoreapp3.1\LR_Ten_OAandP.csproj.CoreCompileInputs.cache
+C:\Users\lesha\OneDrive\Desktop\LR_Ten_OAandP\LR_Ten_OAandP\obj\Debug\netcoreapp3.1\LR_Ten_OAandP.dll
+C:\Users\lesha\OneDrive\Desktop\LR_Ten_OAandP\LR_Ten_OAandP\obj\Debug\netcoreapp3.1\LR_Ten_OAandP.pdb
+C:\Users\lesha\OneDrive\Desktop\LR_Ten_OAandP\LR_Ten_OAandP\obj\Debug\netcoreapp3.1\LR_Ten_OAandP.genruntimeconfig.cache
